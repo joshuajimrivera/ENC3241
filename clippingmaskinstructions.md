@@ -3,7 +3,7 @@ layout: default
 title: Instructions
 ---
 
-<h1>Cropping an Image to the Shape of Different Image Using a Clipping Mask in Adobe Photoshop</h1>
+<h1>Cropping an Image to the Shape of a Different Image Using a Clipping Mask in Adobe Photoshop</h1>
 
 This guide assumes that the reader already has a file created and their two images downloaded.
 
