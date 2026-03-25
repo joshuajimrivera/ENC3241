@@ -30,8 +30,8 @@ The image you want to crop (Top Layer) should be directly above the layer you wa
 <h2>Step 3 — Applying the Clipping Mask</h2>
 
 <ul>
-  <li>Right click on the Top Layer</li>
-  <li>In the pop-up menu, select “Create Clipping Mask”</li>
+  <li>Right click on the Top Layer.</li>
+  <li>In the pop-up menu, select “Create Clipping Mask.”</li>
 </ul>
 
 ![Figure 2. Layer settings pop-up menu. (Source: Joshua Rivera)](image2.png)
@@ -40,7 +40,7 @@ The image you want to crop (Top Layer) should be directly above the layer you wa
 
 <h2>Step 4 — Adjustments</h2>
 
-Although you have successfully applied the crop, chances are you will need to align the layers. The below figure shows the Top Layer (flag) not fully covering the Bottom Layer (Country Silhouette)
+Although you have successfully applied the crop, chances are you will need to align the layers. The below figure shows the Top Layer (flag) not fully covering the Bottom Layer (Country Silhouette).
 
 ![Figure 3. Top Layer (flag) positioned over Bottom Layer (country silhouette) in the canvas, red circles highlight areas not covered by the Top Layer. (Source: Joshua Rivera)](image3.png)
 
@@ -48,7 +48,7 @@ Although you have successfully applied the crop, chances are you will need to al
 
 <ul>
   <li>Select the Top Layer in the Layers tab.</li>
-  <li>On the taskbar, click on Edit > Transform > Scale</li>
+  <li>On the taskbar, click on Edit > Transform > Scale.</li>
 </ul>
 
 ![Figure 4. Edit dropdown menu. (Source: Joshua Rivera)](image4.png)
