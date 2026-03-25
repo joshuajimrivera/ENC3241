@@ -70,5 +70,8 @@ Figure 6. Transform settings bar with checkmark circled. (Source: Joshua Rivera)
 
 
 <h2>End of Instructions</h2>
-![Figure 7. Flag cropped and centered over the country silhouette. (Source: Joshua Rivera)](image6.png)
+
+![Figure 7. Flag cropped and centered over the country silhouette. (Source: Joshua Rivera)](image7.png)
 Figure 7. Flag cropped and centered over the country silhouette. (Source: Joshua Rivera)
+
+Now that you have completed the adjustments, you will have successfully cropped an image onto the shape of another image. If this is part of a larger project involving other layers, you can put both the Top and Bottom layer into their own dedicated group/folder, to ensure that misalignment does not occur as well as reducing the chance of accidentally separating the layers. You could also select the two layers and “rasterize” them, although this is a more permanent change that does not allow future alignment adjustment.
