@@ -5,4 +5,7 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+<p align="center">
+  <img src="RevisedCoverLetter.png" width="800">
+</p>
+**[Download/View as PDF](RevisedCoverLetter.pdf)**
