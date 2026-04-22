@@ -6,4 +6,4 @@ title: Resume
 # Resume
 
 ![Resume](RevisedResumeDraft.png)
-![Download/View as PDF](RevisedResumeDraft.pdf)
+**[Download/View as PDF](RevisedResumeDraft.pdf)**
